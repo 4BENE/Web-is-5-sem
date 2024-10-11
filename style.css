@@ -1,0 +1,36 @@
+
+body{
+    background-color: #DEDFFA;
+    font-family: "Bookman Old Style";
+
+}
+header{
+    font-family: "Bookman Old Style";
+}
+
+.heading{
+    font-size: 80px;
+}
+
+button{
+    border-color: black;
+    border-radius: 30px;
+    background-color: lightsteelblue;
+}
+
+.popular{
+    text-align: center;
+}
+.popular_heading{
+    margin-left: 30px;
+}
+
+.recipe_image{
+    margin-left: 10px;
+}
+.recipe{
+    margin-left: 30px;
+}
+footer{
+    background-color: lightgrey;
+}
